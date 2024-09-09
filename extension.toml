@@ -1,0 +1,12 @@
+id = "surql"
+name = "SurrealDB SurrealQL Language Extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["Albert Marashi <albert.marashi@siteforge.io>"]
+description = "SurrealDB SurrealQL language support"
+repository = "https://github.com/siteforge-io/surql-zed"
+
+
+[grammars.surql]
+repository = "https://github.com/ce11an/tree-sitter-surrealql"
+commit = "9b341754ed2cc04687f3854326b27842de67f693"

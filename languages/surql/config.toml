@@ -1,0 +1,4 @@
+name = "Surreal Query Language"
+grammar = "surql"
+path_suffixes = ["surql"]
+line_comments = ["-- "]
